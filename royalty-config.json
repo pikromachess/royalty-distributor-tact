@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2025-05-24T00:00:00Z",
+  "commission_rate": 500,
+  "distributions": [
+    {
+      "collection_address": "EQBvW8Z5huBkMJYdnfAEM5JqTNkuWX3diqYENkWsIL0XggGG",
+      "recipients": [
+        {
+          "address": "EQD2NmD_lH5f5u1Kj3KfGyTvhZSX0Eg6qp2a4u6-8A5c1234",
+          "royalty_percentage": 1000,
+          "name": "Creator"
+        },
+        {
+          "address": "EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG",
+          "royalty_percentage": 3000,
+          "name": "Platform"
+        },
+        {
+          "address": "EQBvI1pmQBAp3_xlWbz5JX1L7nNbF_6C_7c7v9UiWsm9WXYZ",
+          "royalty_percentage": 6000,
+          "name": "Rights Holder"
+        }
+      ]
+    },
+    {
+      "collection_address": "EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz",
+      "recipients": [
+        {
+          "address": "EQD2NmD_lH5f5u1Kj3KfGyTvhZSX0Eg6qp2a4u6-8A5cABCD",
+          "royalty_percentage": 10000,
+          "name": "Solo Creator"
+        }
+      ]
+    }
+  ]
+}
